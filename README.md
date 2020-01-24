@@ -13,11 +13,14 @@ for the PAM2020 paper "Understanding video streaming algorithms in the wild"
 |   +-- Libraries # Browsermobproxy, Chromedriver and AdBlocker
 |   +-- Traces # Tested Traces
 |   +-- VideoInformation #Information Extracted from the videos of the different providers
-|   +-- SelectedVideoDataframe.csv # .csv containing information about the selected videos 
+|   +-- SelectedVideoDataframe.csv # .csv containing information about the selected videos
 +-- FeedbackSampler
 |   +-- Implementations # Implementation for different providers
 |   +-- Interfaces # Interface needed for different implementations
 |   +-- FeedbackSampler.py # Samples the player data while streaming
++-- OfflineSimulator
+|   +-- MPC.py # Robust MPC Implementation 
+|   +-- OfflineSimulator.py # Offline simulation environment 
 +-- TrafficController
 |   +-- Interfaces # Interface for throttling policies
 |   +-- Implementations # Implementation of different throttling policies
