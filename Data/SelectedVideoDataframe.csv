@@ -1,115 +1,115 @@
-Provider,Video Url,Content,Category,Length,Data Type
-Vimeo,https://vimeo.com/114847336,Gameplay prototype ,Gameplay,4:41 Minutes,testing
-Vimeo,https://vimeo.com/231028063,4K Drone Footage - Incredible Patagonia,Tourism,6:16 Minutes,testing
-Vimeo,https://vimeo.com/105646584,Transition Documentary,Documentary,6:32 Minutes,training
-Vimeo,https://vimeo.com/290069749,Como Deadpool 2 deveria ter terminado Legendado,Comic / Action,7:16 Minutes,training
-Vimeo,https://vimeo.com/223494758,Droptree | “HD Delivery” (OFFICIAL MUSIC VIDEO),Music Video,5:18 Minutes,training
-Vimeo,https://vimeo.com/295751086,MÚKÙNÉ,Sport,6:33 Minutes,training
-Vimeo,https://vimeo.com/298166943,In The Distance,Animation,7:30 Minutes,training
-Vimeo,https://vimeo.com/62092214,Biting Elbows - ‘Bad Motherfucker’ Official Music Video,Music,4:56 Minutes,training
-Vimeo,https://vimeo.com/280433937,IVRY,Documentary,9:26 Minutes,validation
-Vimeo,https://vimeo.com/289366412,The Turk Shop - by Bahar Pars,Drama,6:40 Minutes,validation
-Twitch,https://www.twitch.tv/videos/487343505,Summoners War: Sky Arena,Gameplay,14:41 Minutes,training
-Twitch,https://www.twitch.tv/videos/487124874,IRL,Gameplay,6:50:34 Hours,training
-Twitch,https://www.twitch.tv/videos/487307951,Warcraft,Gameplay,7:08:00 Hours,validation
-Twitch,https://www.twitch.tv/videos/484974321,Fortnite,Gameplay,8:02:09 Hours,training
-Twitch,https://www.twitch.tv/videos/485022143,PLAYERUNKNOWN'S BATTLEGROUNDS,Gameplay,6:39:11 Hours,training
-Twitch,https://www.twitch.tv/videos/484852265,CS:GO,Gameplay,12:47:38 Hours,training
-Twitch,https://www.twitch.tv/videos/472129369,DOTA,Gameplay,11:03:36 Hours,testing
-Twitch,https://www.twitch.tv/videos/484677201,FIFA 20,Gameplay,4:24:06 Hours,training
-Twitch,https://www.twitch.tv/videos/487726557,Teamfight tattics,Gameplay,7:23:02 Hours,validation
-Twitch,https://www.twitch.tv/videos/484941777,GTA5,Gameplay,5:57:59 Hours,testing
-Arte,https://www.arte.tv/en/videos/083236-000-A/turkey-end-of-the-economic-miracle/,Turkey is in a serious monetary [..],Politics and Society,9:26 Minutes,validation
-Arte,https://www.arte.tv/en/videos/051493-028-A/5minutes-with-moderne-jazz/,Three representatives from Moderne Jazz [..],Arts,6:00 Minutes,training
-Arte,https://www.arte.tv/en/videos/085801-006-A/snapchat/,Snapchat is so much fun you can’t [..],Pop Culture,6:21 Minutes,training
-Arte,https://www.arte.tv/en/videos/071498-006-A/fashion-geek-6-10/,Montreal based designer Ying Gao [..],Ideas,5:13 Minutes,training
-Arte,https://www.arte.tv/en/videos/087076-003-A/hania-rani-at-the-eurosonic-festival/,Polish-born and Berlin-based Hania Rani [..],Concert,8:34 Minutes,validation
-Arte,https://www.arte.tv/en/videos/072778-001-A/the-last-eel-fishers-in-europe/,Mario Weber has been fishing the eel for 35 years [..],Environment,7:06 Minutes,training
-Arte,https://www.arte.tv/en/videos/072427-001-A/the-perfect-friend/,Will human relationships become obsolete [..],Technology,9:01 Minutes,training
-Arte,https://www.arte.tv/en/videos/081929-009-A/volcanic-wine/,Vincent Marie is in communion [..],Food,6:59 Minutes,training
-Arte,https://www.arte.tv/en/videos/081018-001-A/marie-meets-marx-1-5/,While Marie is shopping at the supermarket [..],20th Century,4:55 Minutes,testing
-Arte,https://www.arte.tv/en/videos/085699-009-A/one-big-gamble/,Martin Middlebrook leaves Boston [..],Switching viewpoints,5:26 Minutes,testing
-YouTube,https://www.youtube.com/watch?v=QZUeW8cQQbo,Fahrraddieb Rache! Adel Tawil & Klaas kämpfen für Sicherheit | Late Night Berlin | ProSieben,Documentary,9:52 Minutes,testing
-YouTube,https://www.youtube.com/watch?v=HdWqUgn2s88,"Funny Cats Fails Compilation (Vines, Fails and Funny Moments)",Comedy,9:57 Minutes,training
-YouTube,https://www.youtube.com/watch?v=FAKo9-7MDuU,Spätes Delaney-Eigentor bringt BVB um den Sieg: Frankfurt - Dortmund 2:2 | Bundesliga | DAZN,Sport,5:02 Minutes,training
-YouTube,https://www.youtube.com/watch?v=XgG8StjJQcQ,Trump Pressures Ukraine to Investigate Biden & Impeachment Looms | The Daily Show,News,9:08 Minutes,validation
-YouTube,https://www.youtube.com/watch?v=h4lF3g_erYw,Pokemon-Opa: Ein 70-Jähriger mit 33 Smartphones im Pokémon Go-Fieber | Galileo | ProSieben,Documentary,7:34 Minutes,training
-YouTube,https://www.youtube.com/watch?v=VhPw8gtfgv4,2019 Singapore Grand Prix: Race Highlights,Sport,7:13 Minutes,testing
-YouTube,https://www.youtube.com/watch?v=xe0CX-w9rJ0,WITZIGE DIY-STREICHE FÜR FREUNDE|| Krieg der Streiche! bei 123 GO!,Comedy,8:37 Minutes,validation
-YouTube,https://www.youtube.com/watch?v=IB9iVl-geRM,LES RÉUNIONS 4,Comedy,5:55 Minutes,training
-YouTube,https://www.youtube.com/watch?v=e7ZNZq99dRw,Sensationelle Pferdedressur begeistert die Jury | Das Supertalent 2019 | Sendung vom 14.09.2019,Show,6:11 Minutes,training
-YouTube,https://www.youtube.com/watch?v=1NZY5fvxxtQ,Je soigne ma phobie de la mer,Comedy,10:52 Minutes,training
-Fandom,https://www.fandom.com/video/TWTMiJeA/honest-trailers-x-men-dark-phoenix,Honest Trailers | X-Men: Dark Phoenix,Comedy,4:44 Minutes,training
-Fandom,https://www.fandom.com/video/vs1wk6cE/it-chapter-two-review,IT: Chapter Two | Review!,Review,9:06 Minutes,training
-Fandom,https://www.fandom.com/video/htwxIlD2/honest-game-trailers-man-of-medan,Honest Game Trailers | Man of Medan,Comedy,4:52 Minutes,testing
-Fandom,https://www.fandom.com/video/c04tpAHH/what-it-took-to-bring-game-of-thrones-dragons-to-life,What it Took to Bring Game of Thrones' Dragons to Life,Interview,9:29 Minutes,training
-Fandom,https://www.fandom.com/video/uvsrmMID/nfl-players-draft-avengers-ft-melvin-gordon-ian-thomas,NFL Players Draft Avengers! ft Melvin Gordon & Ian Thomas,Interview,9:58 Minutes,testing
-Fandom,https://www.fandom.com/video/mUsqrEmP/ready-or-not-filmmakers-on-blending-comedy-and-terror,Ready or Not Filmmakers on Blending Comedy and Terror,Review,7:52 Minutes,training
-Fandom,https://www.fandom.com/video/45V3Xruv/from-panel-to-screen-scary-stories-to-tell-in-the-dark,From Panel to Screen: Scary Stories to Tell in the Dark,Documentary,6:34 Minutes,training
-Fandom,https://www.fandom.com/video/0wVnP8wm/celebrating-20-years-of-batman-beyond,Celebrating 20 Years of Batman Beyond,Interview,9:38 Minutes,validation
-Fandom,https://www.fandom.com/video/wtdka0o5/the-evolution-of-the-hulk,The Evolution of The Hulk,Documentary,8:41 Minutes,training
-Fandom,https://www.fandom.com/video/XH5uLalE/spider-man-far-from-home-cast-answers-your-fan-questions,Spider-Man: Far From Home Cast Answers Your Fan Questions,Interview,6:22 Minutes,validation
-TubiTV,https://tubitv.com/movies/468907/cartel_2045,Cartel 2045,Sci-fi Action,56:00 Minutes,testing
-TubiTV,https://tubitv.com/movies/490817/bangkok_revenge,Bangkok revenge,Action Drama,1:45:00 Hours,training
-TubiTV,https://tubitv.com/movies/439714/black_mountain_side,Black Mountain Side,Thriller Horror,1:42:56 Hours,validation
-TubiTV,https://tubitv.com/movies/464402/bunyan_and_babe,Bunyan & Babe,Kids&Family Animation,1:24:00 Hours,training
-TubiTV,https://tubitv.com/movies/490861/the_perfect_wife,The Perfect Wife,Thriller,1:10:09 Hours,validation
-TubiTV,https://tubitv.com/tv-shows/493043/s01_e01_steve_wright,World's Most Evil Killers Ep1,Documentary,43:00 Minutes,training
-TubiTV,https://tubitv.com/movies/489900/jeff_dunham_controlled_chaos,Jeff Dunham Controlled Chaos,Comedy,1:41:00 Hours,testing
-TubiTV,https://tubitv.com/movies/486540/switch,Switch,Romance Drama,1:21:00 Hours,training
-TubiTV,https://tubitv.com/movies/464400/a_turtles_tale_2_sammys_escape_from_paradise,A Turtle's Tale 2: Sammy's Escape From Paradise,Kids&Family Animation,41:00 Minutes,training
-TubiTV,https://tubitv.com/movies/464505/gangster_land,Gangster Land,Crime Thriller,41:09 Minutes,training
-SFR,https://www.srf.ch/sendungen/dok/gefaelschte-papiere-und-viele-fragen?id=220f8d04-69e7-4435-8663-8093e840bd90,Gefälschte Papiere und viele Fragen,News,8:33 Minutes,training
-SFR,https://www.srf.ch/play/tv/dok/video/aus-misstrauen-heraus-setzte-dieser-mann-irgendwann-seine-medikamente-ab-?id=0f25933f-bb49-41c8-aaa8-64b3191383a3,Aus Misstrauen heraus setzte dieser Mann irgendwann seine Medikamente ab,News,6:22 Minutes,training
-SFR,https://www.srf.ch/play/tv/sport-clip/video/thun-knoepft-yb-im-derby-einen-punkt-ab?id=520572c7-60fb-488f-8fe6-3e8fe6327185,Thun knöpft YB im Derby einen Punkt ab,Sport,5:45 Minutes,training
-SFR,https://www.srf.ch/play/tv/tagesschau/video/mittagsausgabe?id=8aa9d4c5-2c8c-46c2-b098-39fa61b22a6b,Mittagsausgabe,News,9:47 Minutes,validation
-SFR,https://www.srf.ch/play/tv/10vor10/video/jason-rezaian---nach-ueber-500-tagen-in-iranischem-gefaengnis?id=52f0c065-cc02-4b99-bc37-08ea3da42425,Jason Rezaian – nach über 500 Tagen in iranischem Gefängnis,News,7:29 Minutes,testing
-SFR,https://www.srf.ch/play/tv/schweiz-aktuell/video/ermittlungen-im-umfeld-der-pensionskasse-phoenix?id=eea3f453-1653-4ce7-bded-8a23198483bc,Ermittlungen im Umfeld der Pensionskasse Phoenix,News,6:19 Minutes,training
-SFR,https://www.srf.ch/play/tv/schweiz-aktuell/video/schweizer-tropenholz-im-test?id=496e96cd-8b96-4c48-9a94-9c0cacf98131,«Schweizer» Tropenholz im Test,News,7:34 Minutes,training
-SFR,https://www.srf.ch/play/tv/schweiz-aktuell/video/schweiz-aktuell-vom-17-07-2018?id=1e7ee203-66b0-4ca0-8b49-5f0c8c9c0aa3,Schweiz aktuell vom 17.07.2018,News,5:19 Minutes,testing
-SFR,https://www.srf.ch/play/tv/10vor10/video/bangkok-reagiert-kaum-auf-den-anstieg-des-meeresspiegel?id=69c39d53-7cc7-42cb-a05e-3206acfd5fc1,Bangkok reagiert kaum auf den Anstieg des Meeresspiegel,News,5:35 Minutes ,validation
-SFR,https://www.srf.ch/play/tv/meteo/video/meteo-mittag?id=673c6e09-8d21-410b-8689-332cc85e3cf0,Meteo Mittag,News,5:05 Minutes,training
-xvideos,https://www.xvideos.com/video49702177/,little girl wants to be paid for sex!,porn,9:30 Minutes,testing
-xvideos,https://www.xvideos.com/video49818247/,Birthday Sex With MOM-Sheena Ryder,porn,08:17 Minutes,validation
-xvideos,https://www.xvideos.com/video50049549/,Amazing sex bomb has an intimate checkup,porn,07:48 Minutes,training
-xvideos,https://www.xvideos.com/video50153179/,Shower fuck withbusty,porn,08:42 Minutes,training
-xvideos,https://www.xvideos.com/video49590777/,StepSister gets fucked from behind with Huge Creampie! POV,porn,07:31 Minutes,training
-xvideos,https://www.xvideos.com/video50175259/,Cum on my Tinder date ass in the locker room and she shows me her ass on the street.,porn,08:45 Minutes,training
-xvideos,https://www.xvideos.com/video49811495/,Swiss Stepmom Love Anal,porn,06:31 Minutes,training
-xvideos,https://www.xvideos.com/video49961541/,MOM needs a hand getting soapy- Ivy Lebelle,porn,08:20 Minutes,testing
-xvideos,https://www.xvideos.com/video49628201/,Amateur morning pleasure,porn,08:30 Minutes,validation
-xvideos,https://www.xvideos.com/video50003751/,risky side street fuck with a german teengirl escalates!,porn,09:18 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d0a3d87a0ff6,Cum on my tits joi,porn,07:12 Minutes,testing
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5781d40496c,Young Hot Couple Passionate Fuck With Stunning City Views,porn,09:07 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5efb85b2b75,Fit girl with perfect body gets fucked by her brother in law,porn,08:10 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5c5524675cc,Amateur Teen POV Seduction by 19 y/o Stephanie Vixen,porn,08:31 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d0552d732d69,Busty teen with perfect body rides a dick to get covered in cum - Eva Elfie,porn,09:39 Minutes,validation
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d25e7a430bd5,FICK MICH UND ROTZ ALLES AB,porn,08:32 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d23980224abe,Swiss Escort with Big Tits fucked on Balcony Hotel,porn,06:45 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5eff7f14320,Secret sex affair with my sister's husband,porn,09:48 Minutes,training
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d2a12f911016,Can you believe shes only nineteen!? - Chessie Rae,porn,05:13 Minutes,testing
-pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5ca5d95d5a2d9,Creampie-Angels.com - Tiny Teen - Winning and fucking on floor,porn,06:00 Minutes,validation
-ZDF,https://www.zdf.de/serien/notruf-hafenkante/erster-einsatz-102.html,Notruf Hafenkante: Erster Einsatz,TV Series,43:26 Minutes,training
-ZDF,https://www.zdf.de/filme/zdf-fiction-auf-3sat/ku-damm-59-1-3-100.html,Ku'damm 59 (1/3),TV Series,90:00 Minutes,testing
-ZDF,https://www.zdf.de/kinder/starke-kinder-starke-klasse/folge-7-182.html,Verschiedene Kulturen,Kids,23:40 Minutes,training
-ZDF,https://www.zdf.de/serien/bettys-diagnose/neue-aussichten-100.html,"Neue Aussichten  Staffel 06, Folge 01 ",Drama,43:27 Minutes,training
-ZDF,https://www.zdf.de/kinder/purplus/berliner-mauer-114.html, Mein Schicksal - Die Berliner Mauer ,Doku,24:18 Minutes,validation
-ZDF,https://www.zdf.de/show/bares-fuer-rares/bares-fuer-rares-vom-23-september-2019-100.html, Bares für Rares vom 23. September 2019 ,Reality,52:14 Minutes,training
-ZDF,https://www.zdf.de/dokumentation/37-grad/37-mein-dickes-problem-102.html,Mein dickes Problem,Reality,28:59 Minutes,training
-ZDF,https://www.zdf.de/dokumentation/terra-x/die-wahren-entdecker-amerikas-leif-eriksson-100.html,War ein Wikinger vor Kolumbus in Amerika?,Documentary,17:04 Minutes,testing
-ZDF,https://www.zdf.de/dokumentation/terra-x/eine-zeitreise-zu-den-wikingern-102.html,Eine Zeitreise zu den Wikingern,Documentary,5:59 Minutes,training
-ZDF,https://www.zdf.de/dokumentation/terra-x/videos/horizons-mit-alexander-gerst-ins-all-100.html,Horizons - Die neue Mission von Alexander Gerst,Documentary,5:33 Minutes,validation
+Provider,Video Url,Content,Category,Length
+Vimeo,https://vimeo.com/114847336,Gameplay prototype ,Gameplay,4:41 Minutes
+Vimeo,https://vimeo.com/231028063,4K Drone Footage - Incredible Patagonia,Tourism,6:16 Minutes
+Vimeo,https://vimeo.com/105646584,Transition Documentary,Documentary,6:32 Minutes
+Vimeo,https://vimeo.com/290069749,Como Deadpool 2 deveria ter terminado Legendado,Comic / Action,7:16 Minutes
+Vimeo,https://vimeo.com/223494758,Droptree | “HD Delivery” (OFFICIAL MUSIC VIDEO),Music Video,5:18 Minutes
+Vimeo,https://vimeo.com/295751086,MÚKÙNÉ,Sport,6:33 Minutes
+Vimeo,https://vimeo.com/298166943,In The Distance,Animation,7:30 Minutes
+Vimeo,https://vimeo.com/62092214,Biting Elbows - ‘Bad Motherfucker’ Official Music Video,Music,4:56 Minutes
+Vimeo,https://vimeo.com/280433937,IVRY,Documentary,9:26 Minutes
+Vimeo,https://vimeo.com/289366412,The Turk Shop - by Bahar Pars,Drama,6:40 Minutes
+Twitch,https://www.twitch.tv/videos/487343505,Summoners War: Sky Arena,Gameplay,14:41 Minutes
+Twitch,https://www.twitch.tv/videos/487124874,IRL,Gameplay,6:50:34 Hours
+Twitch,https://www.twitch.tv/videos/487307951,Warcraft,Gameplay,7:08:00 Hours
+Twitch,https://www.twitch.tv/videos/484974321,Fortnite,Gameplay,8:02:09 Hours
+Twitch,https://www.twitch.tv/videos/485022143,PLAYERUNKNOWN'S BATTLEGROUNDS,Gameplay,6:39:11 Hours
+Twitch,https://www.twitch.tv/videos/484852265,CS:GO,Gameplay,12:47:38 Hours
+Twitch,https://www.twitch.tv/videos/472129369,DOTA,Gameplay,11:03:36 Hours
+Twitch,https://www.twitch.tv/videos/484677201,FIFA 20,Gameplay,4:24:06 Hours
+Twitch,https://www.twitch.tv/videos/487726557,Teamfight tattics,Gameplay,7:23:02 Hours
+Twitch,https://www.twitch.tv/videos/484941777,GTA5,Gameplay,5:57:59 Hours
+Arte,https://www.arte.tv/en/videos/083236-000-A/turkey-end-of-the-economic-miracle/,Turkey is in a serious monetary [..],Politics and Society,9:26 Minutes
+Arte,https://www.arte.tv/en/videos/051493-028-A/5minutes-with-moderne-jazz/,Three representatives from Moderne Jazz [..],Arts,6:00 Minutes
+Arte,https://www.arte.tv/en/videos/085801-006-A/snapchat/,Snapchat is so much fun you can’t [..],Pop Culture,6:21 Minutes
+Arte,https://www.arte.tv/en/videos/071498-006-A/fashion-geek-6-10/,Montreal based designer Ying Gao [..],Ideas,5:13 Minutes
+Arte,https://www.arte.tv/en/videos/087076-003-A/hania-rani-at-the-eurosonic-festival/,Polish-born and Berlin-based Hania Rani [..],Concert,8:34 Minutes
+Arte,https://www.arte.tv/en/videos/072778-001-A/the-last-eel-fishers-in-europe/,Mario Weber has been fishing the eel for 35 years [..],Environment,7:06 Minutes
+Arte,https://www.arte.tv/en/videos/072427-001-A/the-perfect-friend/,Will human relationships become obsolete [..],Technology,9:01 Minutes
+Arte,https://www.arte.tv/en/videos/081929-009-A/volcanic-wine/,Vincent Marie is in communion [..],Food,6:59 Minutes
+Arte,https://www.arte.tv/en/videos/081018-001-A/marie-meets-marx-1-5/,While Marie is shopping at the supermarket [..],20th Century,4:55 Minutes
+Arte,https://www.arte.tv/en/videos/085699-009-A/one-big-gamble/,Martin Middlebrook leaves Boston [..],Switching viewpoints,5:26 Minutes
+YouTube,https://www.youtube.com/watch?v=QZUeW8cQQbo,Fahrraddieb Rache! Adel Tawil & Klaas kämpfen für Sicherheit | Late Night Berlin | ProSieben,Documentary,9:52 Minutes
+YouTube,https://www.youtube.com/watch?v=HdWqUgn2s88,"Funny Cats Fails Compilation (Vines, Fails and Funny Moments)",Comedy,9:57 Minutes
+YouTube,https://www.youtube.com/watch?v=FAKo9-7MDuU,Spätes Delaney-Eigentor bringt BVB um den Sieg: Frankfurt - Dortmund 2:2 | Bundesliga | DAZN,Sport,5:02 Minutes
+YouTube,https://www.youtube.com/watch?v=XgG8StjJQcQ,Trump Pressures Ukraine to Investigate Biden & Impeachment Looms | The Daily Show,News,9:08 Minutes
+YouTube,https://www.youtube.com/watch?v=h4lF3g_erYw,Pokemon-Opa: Ein 70-Jähriger mit 33 Smartphones im Pokémon Go-Fieber | Galileo | ProSieben,Documentary,7:34 Minutes
+YouTube,https://www.youtube.com/watch?v=VhPw8gtfgv4,2019 Singapore Grand Prix: Race Highlights,Sport,7:13 Minutes
+YouTube,https://www.youtube.com/watch?v=xe0CX-w9rJ0,WITZIGE DIY-STREICHE FÜR FREUNDE|| Krieg der Streiche! bei 123 GO!,Comedy,8:37 Minutes
+YouTube,https://www.youtube.com/watch?v=IB9iVl-geRM,LES RÉUNIONS 4,Comedy,5:55 Minutes
+YouTube,https://www.youtube.com/watch?v=e7ZNZq99dRw,Sensationelle Pferdedressur begeistert die Jury | Das Supertalent 2019 | Sendung vom 14.09.2019,Show,6:11 Minutes
+YouTube,https://www.youtube.com/watch?v=1NZY5fvxxtQ,Je soigne ma phobie de la mer,Comedy,10:52 Minutes
+Fandom,https://www.fandom.com/video/TWTMiJeA/honest-trailers-x-men-dark-phoenix,Honest Trailers | X-Men: Dark Phoenix,Comedy,4:44 Minutes
+Fandom,https://www.fandom.com/video/vs1wk6cE/it-chapter-two-review,IT: Chapter Two | Review!,Review,9:06 Minutes
+Fandom,https://www.fandom.com/video/htwxIlD2/honest-game-trailers-man-of-medan,Honest Game Trailers | Man of Medan,Comedy,4:52 Minutes
+Fandom,https://www.fandom.com/video/c04tpAHH/what-it-took-to-bring-game-of-thrones-dragons-to-life,What it Took to Bring Game of Thrones' Dragons to Life,Interview,9:29 Minutes
+Fandom,https://www.fandom.com/video/uvsrmMID/nfl-players-draft-avengers-ft-melvin-gordon-ian-thomas,NFL Players Draft Avengers! ft Melvin Gordon & Ian Thomas,Interview,9:58 Minutes
+Fandom,https://www.fandom.com/video/mUsqrEmP/ready-or-not-filmmakers-on-blending-comedy-and-terror,Ready or Not Filmmakers on Blending Comedy and Terror,Review,7:52 Minutes
+Fandom,https://www.fandom.com/video/45V3Xruv/from-panel-to-screen-scary-stories-to-tell-in-the-dark,From Panel to Screen: Scary Stories to Tell in the Dark,Documentary,6:34 Minutes
+Fandom,https://www.fandom.com/video/0wVnP8wm/celebrating-20-years-of-batman-beyond,Celebrating 20 Years of Batman Beyond,Interview,9:38 Minutes
+Fandom,https://www.fandom.com/video/wtdka0o5/the-evolution-of-the-hulk,The Evolution of The Hulk,Documentary,8:41 Minutes
+Fandom,https://www.fandom.com/video/XH5uLalE/spider-man-far-from-home-cast-answers-your-fan-questions,Spider-Man: Far From Home Cast Answers Your Fan Questions,Interview,6:22 Minutes
+TubiTV,https://tubitv.com/movies/468907/cartel_2045,Cartel 2045,Sci-fi Action,56:00 Minutes
+TubiTV,https://tubitv.com/movies/490817/bangkok_revenge,Bangkok revenge,Action Drama,1:45:00 Hours
+TubiTV,https://tubitv.com/movies/439714/black_mountain_side,Black Mountain Side,Thriller Horror,1:42:56 Hours
+TubiTV,https://tubitv.com/movies/464402/bunyan_and_babe,Bunyan & Babe,Kids&Family Animation,1:24:00 Hours
+TubiTV,https://tubitv.com/movies/490861/the_perfect_wife,The Perfect Wife,Thriller,1:10:09 Hours
+TubiTV,https://tubitv.com/tv-shows/493043/s01_e01_steve_wright,World's Most Evil Killers Ep1,Documentary,43:00 Minutes
+TubiTV,https://tubitv.com/movies/489900/jeff_dunham_controlled_chaos,Jeff Dunham Controlled Chaos,Comedy,1:41:00 Hours
+TubiTV,https://tubitv.com/movies/486540/switch,Switch,Romance Drama,1:21:00 Hours
+TubiTV,https://tubitv.com/movies/464400/a_turtles_tale_2_sammys_escape_from_paradise,A Turtle's Tale 2: Sammy's Escape From Paradise,Kids&Family Animation,41:00 Minutes
+TubiTV,https://tubitv.com/movies/464505/gangster_land,Gangster Land,Crime Thriller,41:09 Minutes
+SFR,https://www.srf.ch/sendungen/dok/gefaelschte-papiere-und-viele-fragen?id=220f8d04-69e7-4435-8663-8093e840bd90,Gefälschte Papiere und viele Fragen,News,8:33 Minutes
+SFR,https://www.srf.ch/play/tv/dok/video/aus-misstrauen-heraus-setzte-dieser-mann-irgendwann-seine-medikamente-ab-?id=0f25933f-bb49-41c8-aaa8-64b3191383a3,Aus Misstrauen heraus setzte dieser Mann irgendwann seine Medikamente ab,News,6:22 Minutes
+SFR,https://www.srf.ch/play/tv/sport-clip/video/thun-knoepft-yb-im-derby-einen-punkt-ab?id=520572c7-60fb-488f-8fe6-3e8fe6327185,Thun knöpft YB im Derby einen Punkt ab,Sport,5:45 Minutes
+SFR,https://www.srf.ch/play/tv/tagesschau/video/mittagsausgabe?id=8aa9d4c5-2c8c-46c2-b098-39fa61b22a6b,Mittagsausgabe,News,9:47 Minutes
+SFR,https://www.srf.ch/play/tv/10vor10/video/jason-rezaian---nach-ueber-500-tagen-in-iranischem-gefaengnis?id=52f0c065-cc02-4b99-bc37-08ea3da42425,Jason Rezaian – nach über 500 Tagen in iranischem Gefängnis,News,7:29 Minutes
+SFR,https://www.srf.ch/play/tv/schweiz-aktuell/video/ermittlungen-im-umfeld-der-pensionskasse-phoenix?id=eea3f453-1653-4ce7-bded-8a23198483bc,Ermittlungen im Umfeld der Pensionskasse Phoenix,News,6:19 Minutes
+SFR,https://www.srf.ch/play/tv/schweiz-aktuell/video/schweizer-tropenholz-im-test?id=496e96cd-8b96-4c48-9a94-9c0cacf98131,«Schweizer» Tropenholz im Test,News,7:34 Minutes
+SFR,https://www.srf.ch/play/tv/schweiz-aktuell/video/schweiz-aktuell-vom-17-07-2018?id=1e7ee203-66b0-4ca0-8b49-5f0c8c9c0aa3,Schweiz aktuell vom 17.07.2018,News,5:19 Minutes
+SFR,https://www.srf.ch/play/tv/10vor10/video/bangkok-reagiert-kaum-auf-den-anstieg-des-meeresspiegel?id=69c39d53-7cc7-42cb-a05e-3206acfd5fc1,Bangkok reagiert kaum auf den Anstieg des Meeresspiegel,News,5:35 Minutes 
+SFR,https://www.srf.ch/play/tv/meteo/video/meteo-mittag?id=673c6e09-8d21-410b-8689-332cc85e3cf0,Meteo Mittag,News,5:05 Minutes
+xvideos,https://www.xvideos.com/video49702177/,little girl wants to be paid for sex!,porn,9:30 Minutes
+xvideos,https://www.xvideos.com/video49818247/,Birthday Sex With MOM-Sheena Ryder,porn,08:17 Minutes
+xvideos,https://www.xvideos.com/video50049549/,Amazing sex bomb has an intimate checkup,porn,07:48 Minutes
+xvideos,https://www.xvideos.com/video50153179/,Shower fuck withbusty,porn,08:42 Minutes
+xvideos,https://www.xvideos.com/video49590777/,StepSister gets fucked from behind with Huge Creampie! POV,porn,07:31 Minutes
+xvideos,https://www.xvideos.com/video50175259/,Cum on my Tinder date ass in the locker room and she shows me her ass on the street.,porn,08:45 Minutes
+xvideos,https://www.xvideos.com/video49811495/,Swiss Stepmom Love Anal,porn,06:31 Minutes
+xvideos,https://www.xvideos.com/video49961541/,MOM needs a hand getting soapy- Ivy Lebelle,porn,08:20 Minutes
+xvideos,https://www.xvideos.com/video49628201/,Amateur morning pleasure,porn,08:30 Minutes
+xvideos,https://www.xvideos.com/video50003751/,risky side street fuck with a german teengirl escalates!,porn,09:18 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d0a3d87a0ff6,Cum on my tits joi,porn,07:12 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5781d40496c,Young Hot Couple Passionate Fuck With Stunning City Views,porn,09:07 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5efb85b2b75,Fit girl with perfect body gets fucked by her brother in law,porn,08:10 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5c5524675cc,Amateur Teen POV Seduction by 19 y/o Stephanie Vixen,porn,08:31 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d0552d732d69,Busty teen with perfect body rides a dick to get covered in cum - Eva Elfie,porn,09:39 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d25e7a430bd5,FICK MICH UND ROTZ ALLES AB,porn,08:32 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d23980224abe,Swiss Escort with Big Tits fucked on Balcony Hotel,porn,06:45 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d5eff7f14320,Secret sex affair with my sister's husband,porn,09:48 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5d2a12f911016,Can you believe shes only nineteen!? - Chessie Rae,porn,05:13 Minutes
+pornhub,https://www.pornhub.com/view_video.php?viewkey=ph5ca5d95d5a2d9,Creampie-Angels.com - Tiny Teen - Winning and fucking on floor,porn,06:00 Minutes
+ZDF,https://www.zdf.de/serien/notruf-hafenkante/erster-einsatz-102.html,Notruf Hafenkante: Erster Einsatz,TV Series,43:26 Minutes
+ZDF,https://www.zdf.de/filme/zdf-fiction-auf-3sat/ku-damm-59-1-3-100.html,Ku'damm 59 (1/3),TV Series,90:00 Minutes
+ZDF,https://www.zdf.de/kinder/starke-kinder-starke-klasse/folge-7-182.html,Verschiedene Kulturen,Kids,23:40 Minutes
+ZDF,https://www.zdf.de/serien/bettys-diagnose/neue-aussichten-100.html,"Neue Aussichten  Staffel 06, Folge 01 ",Drama,43:27 Minutes
+ZDF,https://www.zdf.de/kinder/purplus/berliner-mauer-114.html, Mein Schicksal - Die Berliner Mauer ,Doku,24:18 Minutes
+ZDF,https://www.zdf.de/show/bares-fuer-rares/bares-fuer-rares-vom-23-september-2019-100.html, Bares für Rares vom 23. September 2019 ,Reality,52:14 Minutes
+ZDF,https://www.zdf.de/dokumentation/37-grad/37-mein-dickes-problem-102.html,Mein dickes Problem,Reality,28:59 Minutes
+ZDF,https://www.zdf.de/dokumentation/terra-x/die-wahren-entdecker-amerikas-leif-eriksson-100.html,War ein Wikinger vor Kolumbus in Amerika?,Documentary,17:04 Minutes
+ZDF,https://www.zdf.de/dokumentation/terra-x/eine-zeitreise-zu-den-wikingern-102.html,Eine Zeitreise zu den Wikingern,Documentary,5:59 Minutes
+ZDF,https://www.zdf.de/dokumentation/terra-x/videos/horizons-mit-alexander-gerst-ins-all-100.html,Horizons - Die neue Mission von Alexander Gerst,Documentary,5:33 Minutes
 Facebook,https://www.facebook.com/thedodosite/videos/vb.334191996715482/522770001841837,"This barber can work miracles! 💈🔥This bear has never known life outside a cage — watch his first time playing in snow!
-",FB-Viral,5:44Minutes,
-Facebook,https://www.facebook.com/jakepaul/videos/vb.1431889900379952/464484530820010,WORLDS BIGGEST GAME OF DOMINOES!,FB-Viral,8:38 Minutes,
-Facebook,https://www.facebook.com/buzzfeednifty/videos/vl.373410073020006/951886088483919,These ombre polymer clay DIYs are so mesmerizing to watch and so pretty to have in your home. ✨,FB-Viral,5:14 Minutes,
-Facebook,https://www.facebook.com/yummyfoodandfashion/videos/1164692203740417/,Full recipes here: http://tiphero.com/6-scrumptious-apple-recipes/,FB-Viral,5:31 Minutes,
+",FB-Viral,5:44Minutes
+Facebook,https://www.facebook.com/jakepaul/videos/vb.1431889900379952/464484530820010,WORLDS BIGGEST GAME OF DOMINOES!,FB-Viral,8:38 Minutes
+Facebook,https://www.facebook.com/buzzfeednifty/videos/vl.373410073020006/951886088483919,These ombre polymer clay DIYs are so mesmerizing to watch and so pretty to have in your home. ✨,FB-Viral,5:14 Minutes
+Facebook,https://www.facebook.com/yummyfoodandfashion/videos/1164692203740417/,Full recipes here: http://tiphero.com/6-scrumptious-apple-recipes/,FB-Viral,5:31 Minutes
 Facebook,https://www.facebook.com/brightside/videos/vb.727974550664624/2395914427343582,"4 EASY NO BAKE PUDDING DESSERT
 FULL RECIPE : https://youtu.be/9NYhn4wXsFw
 YOUTUBE : http://bit.do/ewqhX
-",FB-Viral,14:36 Minutes,
-Facebook,https://www.facebook.com/buzzfeedpropertasty/videos/vb.1737181656494507/2591797921054659,Travel back to summer with this holiday dish! ☀️,FB-Viral,8:18 Minutes,
-Facebook,https://www.facebook.com/ajplusenglish/videos/vl.2220635918175536/349189142610834,Some American truckers wear turbans and make chai in their trucks. Shreen Khan rides along with a Punjabi Sikh trucker who crossed the U.S.-Mexico border to realize his American dream.,FB-Viral,8:45 Minutes,
-Facebook,https://www.facebook.com/NowThisNews/videos/990068998003343/,"Conoce a Liza Goldberg, la joven de 17 años trabajando con NASA para entender los efectos del cambio climático (via NowThis Español)",FB-Viral,7:24 Minutes,
-Facebook,https://www.facebook.com/LADbible/videos/2446766362205912/,"“If you want a criminal, I’ll give you a f***ing criminal.”",FB-Viral,10:51 Minutes,
-Facebook,https://www.facebook.com/TELEGRAPH.CO.UK/videos/vb.143666524748/488890585212018/,LIVE: Boris Johnson makes his first statement as prime minister,FB-Viral,11:57 Minutes,
+",FB-Viral,14:36 Minutes
+Facebook,https://www.facebook.com/buzzfeedpropertasty/videos/vb.1737181656494507/2591797921054659,Travel back to summer with this holiday dish! ☀️,FB-Viral,8:18 Minutes
+Facebook,https://www.facebook.com/ajplusenglish/videos/vl.2220635918175536/349189142610834,Some American truckers wear turbans and make chai in their trucks. Shreen Khan rides along with a Punjabi Sikh trucker who crossed the U.S.-Mexico border to realize his American dream.,FB-Viral,8:45 Minutes
+Facebook,https://www.facebook.com/NowThisNews/videos/990068998003343/,"Conoce a Liza Goldberg, la joven de 17 años trabajando con NASA para entender los efectos del cambio climático (via NowThis Español)",FB-Viral,7:24 Minutes
+Facebook,https://www.facebook.com/LADbible/videos/2446766362205912/,"“If you want a criminal, I’ll give you a f***ing criminal.”",FB-Viral,10:51 Minutes
+Facebook,https://www.facebook.com/TELEGRAPH.CO.UK/videos/vb.143666524748/488890585212018/,LIVE: Boris Johnson makes his first statement as prime minister,FB-Viral,11:57 Minutes
