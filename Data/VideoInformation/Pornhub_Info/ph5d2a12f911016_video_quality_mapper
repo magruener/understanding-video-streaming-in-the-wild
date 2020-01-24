@@ -1,0 +1,5 @@
+,resolution,contained_in_url,#Pixel,remove_segment_identifier,quality_level
+3,426x240,f4-v1-a1,102240.0,dummy_value,0
+2,854x480,f3-v1-a1,409920.0,dummy_value,1
+1,1280x720,f2-v1-a1,921600.0,dummy_value,2
+0,1920x1080,f1-v1-a1,2073600.0,dummy_value,3

@@ -1,0 +1,5 @@
+,resolution,contained_in_url,#Pixel,remove_segment_identifier,quality_level
+3,444x250,250p,111000.0,hls-250p-b6a28,0
+2,640x360,360p,230400.0,hls-360p-4f493,1
+0,854x480,480p,409920.0,hls-480p-51656,2
+1,1280x720,720p,921600.0,hls-720p-17b22,3

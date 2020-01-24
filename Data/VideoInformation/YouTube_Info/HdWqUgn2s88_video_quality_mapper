@@ -1,0 +1,7 @@
+,resolution,contained_in_url,#Pixel,remove_segment_identifier,quality_level
+2,256x144x30,"['itag=394', 'itag=160', 'itag=278']",1105920.0,dummy_value,0
+3,426x240x30,"['itag=395', 'itag=242', 'itag=133']",3067200.0,dummy_value,1
+4,640x360x30,"['itag=396', 'itag=243', 'itag=134']",6912000.0,dummy_value,2
+5,854x480x30,"['itag=397', 'itag=244', 'itag=135']",12297600.0,dummy_value,3
+0,1280x720x30,"['itag=247', 'itag=398', 'itag=136']",27648000.0,dummy_value,4
+1,1920x1080x30,"['itag=248', 'itag=137']",62208000.0,dummy_value,5
