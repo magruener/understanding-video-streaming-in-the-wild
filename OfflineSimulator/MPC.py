@@ -74,6 +74,13 @@ class MPC:
                  last_n_probes,
                  lookahead=5,
                  robust=True):
+        """
+        :param name: Name under which the results get saved eventually
+        :param reward_function: For which reward function do we optimize
+        :param last_n_probes: How many samples are included in the rate prediction
+        :param lookahead: How far do we plan ahead
+        :param robust: is the estimate robust (as defined in the original MPC paper)
+        """
         self.robust = robust
         self.last_n_probes = last_n_probes
         self.reward_function = reward_function
@@ -120,6 +127,14 @@ class MPC:
 
     def evaluate_video(self, trace_path,
                        video_file, video_id, filter_traces=None):
+        """
+        Evaluate video file with the given traces
+        :param trace_path:
+        :param video_file:
+        :param video_id:
+        :param filter_traces:
+        :return:
+        """
         current_log_path = self.log_path + video_file.split('/')[-2] + '/'
         if not os.path.exists(current_log_path):
             os.makedirs(current_log_path)
