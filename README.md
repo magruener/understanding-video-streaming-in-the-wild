@@ -33,24 +33,20 @@ for the PAM2020 paper "Understanding video streaming algorithms in the wild"
 ```
 
 ### Prerequisites
-
-To be able to use all throttling methods you need to install tcconfig
-```
-pip install tcconfig
-```
+The scripts were tested and developed for Python 3.7. Use requirements.txt to install the packages we need
 
 ### Example
 
-You can find an example of how to use the scripts in "SampleVimeoExample.py"
+You can find an example of how to use the scripts in "SampleExample.py"
 
 ## Authors
 
 * **Maximilian Grüner** - [ETH Zürich](mgruener@ethz.ch)
-* **Melissa Licciardello ** - [ETH Zürich](melissa.licciardello@inf.ethz.ch)
+* **Melissa Licciardello** - [ETH Zürich](melissa.licciardello@inf.ethz.ch)
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 

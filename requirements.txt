@@ -1,8 +1,8 @@
-numpy
-pyvirtualdisplay
+numpy==1.17.3
+pyvirtualdisplay==0.2.4
 blist
-pandas
+pandas==0.25.2
 selenium
 dns-python
 browsermob-proxy
-tcconfig
+tcconfig==0.23.0
