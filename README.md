@@ -29,7 +29,7 @@ for the PAM2020 paper "Understanding video streaming algorithms in the wild"
 |   +-- TCFeedbackControllerChunk.py # Traffic controller for non-dynamic chunk sized providers
 |   +-- TCFeedbackControllerContinuous.py # Traffic controller for dynamic chunk sized providers
 +-- MainMethods.py # Main sampling and traffic control loop
-+-- SampleVimeoExample.py # Example of how to sample a given provider with files and a given policy
++-- SampleExample.py # Example of how to sample a given provider with files and a given policy
 ```
 
 ### Prerequisites
