@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Data/Libraries/browsermob-proxy-2.1.4/
+/Data/Libraries/AdBlock_YouTube.crx
+/Data/Libraries/chromedriver_77
