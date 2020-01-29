@@ -34,9 +34,9 @@ for the PAM2020 paper "Understanding video streaming algorithms in the wild"
 
 ### Prerequisites
 The scripts were tested and developed for Python 3.7. 
-* Download [Browsermob Proxy v. 2.1.4](https://bmp.lightbody.net/) and place in Data/Libraries
-* Download [Chromedriver v. 77](https://chromedriver.chromium.org/) and place in Data/Libraries
-* (Optional) Obtain the YouTube Adblocker via the chrome store 
+* Download [Browsermob Proxy v. 2.1.4](https://bmp.lightbody.net/) and place in Data/Libraries/browsermob-proxy-2.1.4
+* Download [Chromedriver v. 77](https://chromedriver.chromium.org/) and place in Data/Libraries/chromedriver_77
+* (Optional) Obtain the YouTube Adblocker via the chrome store an and place it in Data/Libraries/AdBlock_YouTube.crx
 * Install the python packages needed via requirements.txt
 
 ### Example
