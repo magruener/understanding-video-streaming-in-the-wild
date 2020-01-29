@@ -33,7 +33,11 @@ for the PAM2020 paper "Understanding video streaming algorithms in the wild"
 ```
 
 ### Prerequisites
-The scripts were tested and developed for Python 3.7. Use requirements.txt to install the packages we need
+The scripts were tested and developed for Python 3.7. 
+* Download [Browsermob Proxy v. 2.1.4](https://bmp.lightbody.net/) and place in Data/Libraries
+* Download [Chromedriver v. 77](https://chromedriver.chromium.org/) and place in Data/Libraries
+* (Optional) Obtain the YouTube Adblocker via the chrome store 
+* Install the python packages needed via requirements.txt
 
 ### Example
 
