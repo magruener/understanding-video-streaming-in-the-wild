@@ -45,8 +45,8 @@ You can find an example of how to use the scripts in "SampleExample.py"
 
 ## Authors
 
-* **Maximilian Grüner** - [ETH Zürich](mgruener@ethz.ch)
-* **Melissa Licciardello** - [ETH Zürich](melissa.licciardello@inf.ethz.ch)
+* **Maximilian Grüner** - [ETH Zürich](mailto:mgruener@ethz.ch)
+* **Melissa Licciardello** - [ETH Zürich](mailto:melissa.licciardello@inf.ethz.ch)
 
 
 ## License
