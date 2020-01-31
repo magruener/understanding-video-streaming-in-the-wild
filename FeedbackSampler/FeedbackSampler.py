@@ -118,15 +118,17 @@ class FeedbackSampler:
             add_options = []
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument('--disable-application-cache')
+        chrome_options.add_argument('--ignore-ssl-errors=yes')
+        chrome_options.add_argument('--ignore-certificate-errors')
         for option in add_options:
             chrome_options.add_argument(option)
         if self.browser_proxy is not None:
             chrome_options.add_argument('--proxy-server=%s' % str(self.browser_proxy.proxy))
         if self.add_adblocker:
             chrome_options.add_extension('Libraries/AdBlock_YouTube.crx')  # Might need to be adapted
+        logger.info('Creating Browser with %s' % str(chrome_options.arguments))
 
         browser = webdriver.Chrome(executable_path=self.browser_driver, chrome_options=chrome_options)
-        logger.info('Creating Browser with %s' % str(chrome_options.arguments))
         return browser
 
     def client_logger_function(self):
@@ -213,7 +215,7 @@ class FeedbackSampler:
 
 
     def start(self):
-        if self.add_measurement_at_client:
+        if self.add_measurement_at_client and False: # Deprecated
             #self.start_add_measurement_at_client()
             bw_measurement_thread_instance = threading.Thread(target=self.bw_measurement_thread)
             bw_measurement_thread_instance.daemon = True
@@ -224,13 +226,18 @@ class FeedbackSampler:
             print('Starting latency measurment')
         # ------------------------------ Init Buffer Datastructure
         self.TC_Feedback_Controller.stop_throttle()
+        logging.info('Stopping all Throttling')
+
         if self.browser_proxy is not None:
             self.browser_proxy.new_har(options={'captureHeaders': True, 'captureContent': False})
             self.TC_Feedback_Controller.enable_proxy_access(self.browser_proxy)
+        logging.info('Starting Browser')
         browser = self.start_browser(add_options=self.ABR_Feedback_Controller.specific_options_browser())
         # Setting Base throttle
         self.TC_Feedback_Controller.enable_browser_access(browser)
         self.TC_Feedback_Controller.prepare_throttle()
+        logging.info('Sleeping to insure that the throttling is working')
+
         time.sleep(10)
 
         # ------------------------ Load the Page

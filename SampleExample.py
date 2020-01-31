@@ -12,11 +12,11 @@ from TrafficController.TCFeedbackControllerChunk import TCFeedbackControllerFile
 #### Testing Online Provider
 ABR_Feedback_Controller = VimeoFeedbackController()
 Provider = 'Vimeo'
-use_virtual_display = True
+use_virtual_display = False
 video_csv = pd.read_csv('Data/SelectedVideoDataframe.csv')
 vimeo_urls = video_csv[video_csv.Provider == 'Vimeo']
 all_video_urls = vimeo_urls['Video Url'].values
-network_interface_experiment = 'ens5'
+network_interface_experiment = 'eno1' # Your Network Interface
 trace_paths = []
 for (dirpath, dirnames, filenames) in os.walk('Data/Traces/'):
     trace_paths.extend([os.path.join(dirpath, f) for f in filenames])

@@ -6,14 +6,14 @@ import pandas as pd
 from pyvirtualdisplay import Display
 from selenium.common.exceptions import NoSuchElementException, ElementNotVisibleException, TimeoutException
 
-from FeedbackSampler.FeedbackSampler import FeedbackSampler
 from BrowserControl.NetworkController import NetworkControllerChrome
+from FeedbackSampler.FeedbackSampler import FeedbackSampler
 from TrafficController.TCFeedbackControllerChunk import ParsingError
 
 SELECTED_VIDEOFRAME_CSV = 'Data/SelectedVideoDataframe.csv'
 BROWSERMOB_PROXY_PATH = 'Data/Libraries/browsermob-proxy-2.1.4/bin/browsermob-proxy'
 MITMPROXY_PATH = 'Data/Libraries/mitmproxy-4.0.4-linux/mitmdump'
-CHROMEDRIVER_PATH = 'Data/Libraries/chromedriver_77'
+CHROMEDRIVER_PATH = 'Data/Libraries/chromedriver'
 VIRTUAL_DISPLAY_WIDTH = 4096
 VIRTUAL_DISPLAY_HEIGHT = 3072
 FIXED_RANDOM_SEED = 42
@@ -149,6 +149,7 @@ def start_sampling(ABR_Feedback_Controller,
                 os.makedirs(result_path_formatted)
             if not path_exists:
                 try:
+                    logger.info("Opening Sampler")
                     Sampler = FeedbackSampler(browser_proxy=browser_proxy,
                                               TC_Feedback_Controller=TC_Feedback_Controller,
                                               ABR_Feedback_Controller=ABR_Feedback_Controller,
