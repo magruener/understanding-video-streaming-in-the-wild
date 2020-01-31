@@ -17,7 +17,7 @@ info_dir = resources/video_info
 #
 #
 
-proxy_ip = 129.132.102.94
+proxy_ip = 192.168.178.80
 proxy_port = 8080
 dev = enp0s31f6
 
@@ -29,7 +29,10 @@ dev = enp0s31f6
 avd_name = pixel
 provider_name = Vimeo
 ca=~/.mitmproxy/mitmproxy-ca-cert.pem # PATH TO MITM PROXY
-android_home = /home/mel/Android/Sdk/ # ANDROID HOME
+android_home = ~/Android/Sdk/ # ANDROID HOME
+adb = ~/Android/Sdk/platform-tools/adb
+emulator = ~/Android/Sdk/emulator/emulator
+
 
 
 # remember to change the subpath element according to your filesystem (in my case is the 4th) 
@@ -42,11 +45,8 @@ targets =  $(foreach t, $(traces), $(main_results_dir)/$(call get_tracename, $t)
 all: ${targets}
 
 
-debug: 
-	@echo $(targets)
-	@echo $(traces)
-
-$(main_results_dir)/%/requests_log/:  $(main_results_dir)/%/video_info $(main_results_dir)/%/info $(main_results_dir)/%/video_mapping #: -> dependency on the sources
+$(main_results_dir)/%/requests_log/:  $(main_results_dir)/%/video_info $(main_results_dir)/%/info $(main_results_dir)/%/video_mapping #: -> dependency on the sources	
+	
 	mkdir -p $(main_results_dir)/$*/
 	python3 src/single_experiment.py\
 					--info_file  $(main_results_dir)/$*/info\
@@ -58,7 +58,9 @@ $(main_results_dir)/%/requests_log/:  $(main_results_dir)/%/video_info $(main_re
 					--dev $(dev)\
 					--directory_out $(main_results_dir)/$*/\
 					--mitmproxy_ca $(ca)\
-					--android_home $(android_home)
+					--android_home $(android_home)\
+					--emulator $(emulator)\
+					--adb $(adb)
 	
 $(main_results_dir)/%/video_info $(main_results_dir)/%/info $(main_results_dir)/%/video_mapping:  
 	mkdir -p $(main_results_dir)/$*/

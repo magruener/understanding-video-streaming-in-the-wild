@@ -73,6 +73,8 @@ if __name__ == "__main__":
         parser.add_argument('--directory_out', dest='out_dir', required=True)   
         parser.add_argument('--mitmproxy_ca', dest='ca', required=True)
         parser.add_argument('--android_home', dest='android_home', required=True)
+        parser.add_argument('--emulator', dest='emulator', required=True)
+        parser.add_argument('--adb', dest='adb', required=True)
 
         args = parser.parse_args()
         
@@ -91,7 +93,7 @@ if __name__ == "__main__":
                 
 
                 print("Starting session of emulation")
-                subprocess.call(["./src/bash/install_certificate.sh", args.avd, args.proxyip, args.proxyport, args.ca]) 
+                subprocess.call(["./src/bash/install_certificate.sh", args.avd, args.proxyip, args.proxyport, args.ca, args.emulator, args.adb]) 
 
                 trace_file = os.path.join(args.out_dir, "trace")
                 if not os.path.exists(trace_file):
@@ -128,5 +130,5 @@ if __name__ == "__main__":
                         os.rename(os.environ["CURRENT_EXPERIMENT"], os.path.join(args.out_dir, "requests_log"))
 
         finally:
-                 subprocess.call(["./src/bash/clean_processes.sh"])
+                 subprocess.call(["./src/bash/clean_processes.sh", args.adb])
                 

@@ -26,6 +26,9 @@ FULL_SCREEN_ID =  'com.vimeo.android.videoapp:id/view_video_controller_fullscree
 TOUCH_CONTROLLER = 'com.vimeo.android.videoapp:id/view_video_player_touch_controller'
 
 
+APK_APP_PATH = '../resources/com.vimeo.android.videoapp.apk'
+
+
 # KEY VALUES
 WAIT = 10
 ENTER_KEY = 66
@@ -46,7 +49,7 @@ def init():
 	desired_caps['platformVersion'] = '6.0'
 	desired_caps['automationName'] = 'uiautomator2'
 	desired_caps['deviceName'] = 'Android Emulator'
-	desired_caps['app'] = PATH('./resources/com.vimeo.android.videoapp.apk')
+	desired_caps['app'] = PATH(APK_APP_PATH)
 	desired_caps['newCommandTimeout'] = 1200
 
 	driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)

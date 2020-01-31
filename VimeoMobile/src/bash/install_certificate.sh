@@ -7,6 +7,8 @@ AVD=$1
 PROXY_ADDRESS=$2
 PROXY_PORT=$3
 CA=$4
+EMULATOR=$5
+ADB=$6
 
 appium &>/dev/null &
 $EMULATOR -avd $AVD -writable-system -http-proxy $PROXY_ADDRESS:$PROXY_PORT -wipe-data  -no-window & 
@@ -25,11 +27,10 @@ $ADB root
 $ADB remount
 
 
-# PATH TO THE MITM PROXY CERTIFICATE
 
 
 
 
 hash=$(openssl x509 -noout -subject_hash_old -in $CA)
 $ADB push $CA /system/etc/security/cacerts/$hash.0
-$ADB push frida-server /data/local/tmp/
+#$ADB push frida-server /data/local/tmp/

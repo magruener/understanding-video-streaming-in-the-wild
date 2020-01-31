@@ -12,7 +12,7 @@ sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 
 
 # PYTHON PACKAGES
-pip3 install pandas pgrep selenium
+pip3 install pandas pgrep selenium mitmproxy
 
 
 # NODEJS
@@ -29,7 +29,7 @@ apt-get install build-essential curl git m4 ruby texinfo libbz2-dev libcurl4-ope
 # APPIUM
 #
 npm install -g appium --unsafe-perm=true --allow-root
-
+pip install Appium-Python-Client
 
 # ANDROID STUDIO PRE
 #
