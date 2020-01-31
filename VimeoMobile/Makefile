@@ -17,7 +17,7 @@ info_dir = resources/video_info
 #
 #
 
-proxy_ip = 192.168.178.80
+proxy_ip = <ip_here>
 proxy_port = 8080
 dev = enp0s31f6
 
