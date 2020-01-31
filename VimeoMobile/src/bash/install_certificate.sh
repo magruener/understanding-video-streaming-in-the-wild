@@ -1,5 +1,4 @@
 #!/bin/bash
-# PATH TO MITM PROXY CERTIFICATE
 
 
 
