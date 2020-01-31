@@ -54,4 +54,7 @@ You can find an example of how to use the scripts in "SampleExample.py"
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
+## More Information
+
+For more information see the preprint on [Arxiv](https://arxiv.org/abs/2001.02951) . The PAM2020 Version is soon to be released
 
