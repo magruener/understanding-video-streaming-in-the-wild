@@ -17,7 +17,6 @@ CHROMEDRIVER_PATH = 'Data/Libraries/chromedriver'
 VIRTUAL_DISPLAY_WIDTH = 4096
 VIRTUAL_DISPLAY_HEIGHT = 3072
 FIXED_RANDOM_SEED = 42
-LOCAL_PASSWORD_FILE_PATH = 'pw_local' #You need the password to start TC
 NETWORK_INTERFACE = 'eth0' #Which interface do you want to throttle
 SITE_LOADING_STABLE_THROTTLE_MBIT = '3.' #Initial throttle in mbit
 BASE_LATENCY_MS = 0 #Added latency
@@ -40,8 +39,7 @@ for (dirpath, dirnames, filenames) in os.walk('Data/Traces/PAMTrace/'):
     pam_files.extend([os.path.join(dirpath, f) for f in filenames])
 pam_files = sorted(pam_files)
 
-with open(LOCAL_PASSWORD_FILE_PATH, 'r') as LOCAL_PASSWORD_FILE_PATH:
-    LOCAL_PASSWORD_FILE_PATH = LOCAL_PASSWORD_FILE_PATH.read()
+
 
 def experiment_not_finished(result_path_formatted, add_measurement_at_client=False):
     if len(os.listdir(result_path_formatted)) < 3:
