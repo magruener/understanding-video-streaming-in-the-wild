@@ -34,7 +34,8 @@ File_Client = TCFeedbackControllerFile(file_paths=trace_paths,
                                        throttle_type='tcset_raw',
                                        mode='iterative')
 Model = 'File_Sampler'
-validation_video_urls = np.random.choice(vimeo_urls, size=len(trace_paths))
+
+validation_video_urls = np.random.choice(all_video_urls, size=len(trace_paths))
 start_sampling(ABR_Feedback_Controller=ABR_Feedback_Controller,
                TC_Feedback_Controller=File_Client,
                Provider=Provider,
